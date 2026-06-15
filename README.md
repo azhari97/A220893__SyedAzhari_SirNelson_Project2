@@ -1,14 +1,13 @@
 SYED AZHARI BIN SYED RIDHUAN(A220893)
-SDG THEME
 
-SDG 12 — Responsible Consumption and Production
+SDG THEME : SDG 12 — Responsible Consumption and Production
 
 Problem Focus:
 Reducing unnecessary waste within university communities.
 Encouraging students and staff to reuse, resell, exchange, or donate usable items instead of throwing them away.
 Promoting a sustainable campus marketplace culture.
 
-CORE FEATURES
+CORE FEATURES:
 User registration, login, and profile management
 Local user data storage using Room Database
 Browse and search marketplace items
