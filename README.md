@@ -24,7 +24,7 @@ Multi-screen navigation flow
 TECH STACK:
 Kotlin
 Jetpack Compose
-Material 3
+Material 3 Desing
 Navigation Compose
 MVVM Architecture
 ViewModel
@@ -34,7 +34,7 @@ Retrofit
 REST API
 Camera Sensor
 Coil Compose
-Kotlin Serialization
+GSON(data serialization)
 Gradle
 Android Studio
 
