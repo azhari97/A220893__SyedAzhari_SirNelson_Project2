@@ -1,6 +1,6 @@
 SYED AZHARI BIN SYED RIDHUAN(A220893)
 
-SDG THEME : SDG 12 — Responsible Consumption and Production
+SDG THEME : SDG 12 - Responsible Consumption and Production
 
 Problem Focus:
 Reducing unnecessary waste within university communities.
